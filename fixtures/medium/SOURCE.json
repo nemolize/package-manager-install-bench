@@ -1,0 +1,8 @@
+{
+  "repo": "mozilla/pdf.js",
+  "commit": "60aefc5b51d526e39bbcbae1c6cb760763b65b0a",
+  "commitDate": "2026-11-16T17:09:17Z",
+  "license": "Apache-2.0",
+  "url": "https://github.com/mozilla/pdf.js/tree/60aefc5b51d526e39bbcbae1c6cb760763b65b0a",
+  "note": "package.json at this commit with a \"hello\" script added for the run-one-script scenario; package-lock.json is generated from it by npm (--package-lock-only --ignore-scripts) and pinned, not the project's own lockfile"
+}

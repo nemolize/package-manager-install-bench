@@ -1,0 +1,9 @@
+{
+  "name": "package-manager-tools-berry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "yarn Berry, pinned to an exact version. Kept apart from tools/ because yarn classic installs the same `yarn` command name.",
+  "dependencies": {
+    "@yarnpkg/cli-dist": "4.18.1"
+  }
+}

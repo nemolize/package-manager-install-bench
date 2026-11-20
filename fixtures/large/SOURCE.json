@@ -1,0 +1,8 @@
+{
+  "repo": "qishibo/AnotherRedisDesktopManager",
+  "commit": "c149855106628babcdfb7675a8e7ba9434d2492a",
+  "commitDate": "2026-08-20T12:35:10Z",
+  "license": "MIT",
+  "url": "https://github.com/qishibo/AnotherRedisDesktopManager/tree/c149855106628babcdfb7675a8e7ba9434d2492a",
+  "note": "package.json at this commit with a \"hello\" script added for the run-one-script scenario; package-lock.json is generated from it by npm (--package-lock-only --ignore-scripts) and pinned, not the project's own lockfile"
+}
